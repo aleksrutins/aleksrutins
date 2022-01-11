@@ -13,6 +13,8 @@ My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that d
 - SCSS
 - Less
 - (currently learning) PHP
+- MATLAB
+- (currently learning) Julia
 
 ## Licenses
 Unless otherwise specified, all of my projects are under the MIT License and &copy; Aleks Rutins.
