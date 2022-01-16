@@ -3,6 +3,7 @@ My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that d
 ## Languages I Know
 - C
 - JavaScript
+- Java
 - HTML
 - CSS
 - TypeScript
