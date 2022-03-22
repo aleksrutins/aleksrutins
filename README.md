@@ -2,20 +2,26 @@
 My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that don't fail.
 ## Languages I Know
 - C
+- Vala
 - JavaScript
 - Java
 - HTML
 - CSS
 - TypeScript
+- Python
 - Go
-- (some) Rust
+- Rust
 - C++
 - C#
+- D
+- Visual Basic
+- (some) Haskell
 - SCSS
 - Less
-- (currently learning) PHP
+- Stylus
+- (some) PHP
 - MATLAB
-- (currently learning) Julia
+- (some) Julia
 
 ## Licenses
 Unless otherwise specified, all of my projects are under the MIT License and &copy; Aleks Rutins.
@@ -24,11 +30,13 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 **Deployment:**
 - [Vercel](https://vercel.com)
 - [Railway](https://railway.app)
+- [Firebase](https://firebase.google.com)
 - GitHub Pages (which should need no introduction)
 
-**Database:**
+**Databases:**
 - Postgres
 - MySQL (so far, only through Laravel's abstractions)
+- Firebase
 
 **Frameworks:**
 - React
@@ -43,3 +51,10 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 - NextJS
 - NuxtJS
 - Deno
+
+**Game Engines:**
+- Unreal
+- Unity
+- Godot
+- Construct 3
+- Currently learning the Vulkan API (through [Vulkano](https://vulkano.rs)), hoping to make my own
