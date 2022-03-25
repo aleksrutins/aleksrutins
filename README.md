@@ -57,4 +57,4 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 - Unity
 - Godot
 - Construct 3
-- Currently learning the Vulkan API (through [Vulkano](https://vulkano.rs)), hoping to make my own
+- Currently [writing one in TypeScript](https://github.com/aleksrutins/platinum).
