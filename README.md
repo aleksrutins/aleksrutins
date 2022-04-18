@@ -35,7 +35,12 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 
 **Databases:**
 - Postgres
+- Prisma
+- Eloquent
+- Ecto
 - MySQL (so far, only through Laravel's abstractions)
+- MongoDB
+- Redis
 - Firebase
 
 **Frameworks:**
