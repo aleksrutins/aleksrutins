@@ -1,6 +1,12 @@
-# Hello!
+# :wave: Hello!
 My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that don't fail.
 ## Languages I Know
+
+A picture is worth a thousand words:
+
+![Languages](https://github-language-stats.vercel.app/api/top-langs?username=aleksrutins&count=10)
+
+Or, if you prefer the thousand words:
 - C
 - Vala
 - JavaScript
