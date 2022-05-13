@@ -69,3 +69,5 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 - Godot
 - Construct 3
 - Currently [writing one in TypeScript](https://github.com/aleksrutins/platinum).
+
+![](https://komarev.com/ghpvc/?username=aleksrutins&style=flat)
