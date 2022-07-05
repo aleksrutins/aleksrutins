@@ -44,7 +44,8 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 - Prisma
 - Eloquent
 - Ecto
-- MySQL (so far, only through Laravel's abstractions)
+- MySQL
+- [PlanetScale](https://planetscale.com)
 - MongoDB
 - Redis
 - Firebase
@@ -56,7 +57,7 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 - Alpine.js
 - Laravel
 - GTK
-- Qt (a little)
+- Qt
 - UWP
 - NodeJS
 - NextJS
@@ -69,5 +70,3 @@ Unless otherwise specified, all of my projects are under the MIT License and &co
 - Godot
 - Construct 3
 - Currently [writing one in TypeScript](https://github.com/aleksrutins/platinum).
-
-![](https://komarev.com/ghpvc/?username=aleksrutins&style=flat)
