@@ -4,7 +4,7 @@ My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that d
 
 A picture is worth a thousand words:
 
-![Languages](https://github-language-stats.vercel.app/api/top-langs?username=aleksrutins&count=10)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aleksrutins&count=10)
 
 Or, if you prefer the thousand words:
 - C
