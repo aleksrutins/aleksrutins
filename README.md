@@ -1,7 +1,7 @@
 # :wave: Hello!
 My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that don't fail.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="aleksr" data-color="#FFDD00" data-emoji="🍵"  data-font="Bree" data-text="Buy me some tea" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/aleksr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## Languages I Know
 
 A picture is worth a thousand words:
