@@ -1,3 +1,5 @@
+**IMPORTANT:** The source of truth for repositories is now [Forgejo](https://git.farthergate.com/); GitHub has lost my trust. See backups of all repositories here at <https://git.farthergate.com/gh>.
+
 # :wave: Hello!
 My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that don't fail.
 
