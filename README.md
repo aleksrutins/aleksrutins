@@ -1,4 +1,4 @@
-**IMPORTANT:** New repositories are now on [SourceHut](https://sr.ht/~aleksrutins) or [Forgejo](https://git.farthergate.com/); GitHub has lost my trust. See backups of all repositories here at <https://git.farthergate.com/gh>.
+**IMPORTANT:** Most new repositories are now on [SourceHut](https://sr.ht/~aleksrutins) or [Forgejo](https://git.farthergate.com/); GitHub has lost my trust. See backups of all repositories here at <https://git.farthergate.com/gh>.
 
 # :wave: Hello!
 My name is Aleks Rutins. I enjoy coding, reading, skiing, and deployments that don't fail.
